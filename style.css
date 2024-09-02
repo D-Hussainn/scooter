@@ -14,10 +14,23 @@
     width: 150px;
 }
 
+main{
+    background-color: #acaaaa;
+}
+
 footer {
     background-color: #3d3d3d;
     color: white;
     font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head-text{
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.under-head-text{
     font-family: Arial, Helvetica, sans-serif;
 }
 
