@@ -18,9 +18,7 @@ main{
     background-color: #000000;
 }
 
-.main{
-    color: wheat;
-}
+
 
 footer {
     background-color: #3d3d3d;
@@ -40,4 +38,11 @@ footer {
 
 .foto{
     background-color: black;
+}
+
+.bar{
+    background-color: rgb(226, 68, 68);
+    color: white;
+    font-weight: 1000;
+
 }
