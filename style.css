@@ -32,6 +32,7 @@ footer {
 .head-text{
     font-weight: 1000;
     font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
 }
 
 .under-head-text{
@@ -47,4 +48,11 @@ footer {
     color: white;
     font-weight: 1000;
 
+}
+
+.card-text{
+    text-align: center;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
 }
