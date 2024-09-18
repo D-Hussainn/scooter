@@ -18,7 +18,9 @@ main{
     background-color: #000000;
 }
 
-
+*{
+    overflow-x: hidden;
+}
 
 footer {
     background-color: #3d3d3d;
